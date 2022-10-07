@@ -60,9 +60,10 @@ Refactor your code so that you do not repeat yourself.
 
 Add an event listener to all menu item `buttons` that adds the `price` of the menu item to the `cartTotal` variable and updates the cart total in the DOM.
 
-### CHALLENGE: 
+### CHALLENGE: `submit` event listener, dynamic header, `.forEach`
 
 Add a `submit` event listener to the menu search form that:
+
 - takes in the search value,
 - adds a section `header` that reads, `Search Results for "${searchInputValue}"`,
 - and displays all search results as menu cards in the search results section using the `.forEach` method
