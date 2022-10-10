@@ -1,6 +1,6 @@
 # Restaurant Website
 
-To complete this challenge, you will finish building this restaurant website using DOM Manipulation as well as `for...of` and `for...in` loops.
+To complete this challenge, you will finish building this restaurant website using **DOM Manipulation** as well as `for...of` and `for...in` loops.
 
 Menu items in each website section will be displayed using the `foodMenuItems`, `drinkMenuItems`, `dessertMenuItems` arrays in the `data.js` file.
 
